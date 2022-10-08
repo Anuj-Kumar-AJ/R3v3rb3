@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anuj
 - 👀 I’m interested in artificial intelligence, computer vision, software programming
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on software development using python
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me https://twitter.com/AnujAk639 , www.linkedin.com/in/anuj-kumar-aj639
 - 
 
